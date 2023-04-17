@@ -30,6 +30,7 @@ In the real world, data doesn't always come with known labels and will have to b
 
 In this instance, we will be utilizing the Credit Card Fraud Detection dataset from:
 * https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 Which was sourced from a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 
 The following is known about the dataset:
